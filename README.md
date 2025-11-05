@@ -1,10 +1,10 @@
 # 🚀 AI Agent Developer Environment Setup Verification
 
-**Repository Name:** ai-agent-dev-setup-[Your Name]
+**Repository Name:** ai-agent-dev-setup-marcosnjp
 
 ### 👤 Workshop Details
 
-* **Name:** [Your Full Name]
+* **Name:** Nino Justin Marcos
 
 ---
 

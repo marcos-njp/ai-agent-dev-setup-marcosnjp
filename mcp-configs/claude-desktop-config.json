@@ -1,0 +1,35 @@
+{
+  "mcpServers": {
+    "bootcamp-rag": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://ai-assist.ausbizconsulting.com.au/api/mcp"
+      ]
+    },
+    "tech-bootcamp-consultations": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://ai-assist.ausbizconsulting.com.au/api/mcp"
+      ]
+    },
+    "rolldice": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://rolldice.ausbizconsulting.com.au/api/mcp"
+      ]
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "<your-github-personal-access-token-here>"
+      }
+    }
+  }
+}
